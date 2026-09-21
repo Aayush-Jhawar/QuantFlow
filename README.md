@@ -1,4 +1,4 @@
-# QuantFlow — Regime-Based Market Microstructure Trading
+# QuantFlow - Regime-Based Market Microstructure Trading
 
 A regime-aware high-frequency trading system that dynamically adapts to evolving market microstructures. Built with deep generative models (DRA-GAN) for synthetic feature augmentation, MLP-based directional forecasting, and advanced position sizing using entropy and trend intensity metrics.
 
